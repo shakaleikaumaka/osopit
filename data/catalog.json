@@ -1,0 +1,62 @@
+[
+ {
+  "id": "delhi-room",
+  "title": "The Ancestor's Room — Delhi 2025, preserved",
+  "kind": "archive",
+  "date": "2026-09-23",
+  "source": "OSO P.I.T. resurrection · sysadmin 🫡",
+  "hosted": "https://osopit.com/delhi/",
+  "featured": true,
+  "note": "All four ancestor repositories preserved with full git history (bundles), the original hackathon source snapshot, and the ancestor's own artwork — the visual pit, the stage, the six stand-holders."
+ },
+ {
+  "id": "restoration-doc",
+  "title": "OSO P.I.T. — The Ancestor, Restored",
+  "kind": "document",
+  "date": "2026-07-25",
+  "source": "PIT BOY 🕳️😤 · The P.I.T. Protocol",
+  "hosted": "https://publicinform.com/osopit/",
+  "featured": true,
+  "note": "The restoration report with radical honesty — the story, the architecture, the fork path."
+ },
+ {
+  "id": "cradle",
+  "title": "The cradle — original ETHGlobal New Delhi 2025 build",
+  "kind": "code",
+  "date": "2025-09-26",
+  "source": "grmkris + the Delhi crew · 94 commits in 3 days",
+  "hosted": "https://github.com/grmkris/eth-global-new-delhi-2025-opensource-orchestra",
+  "mirror": "https://osopit.com/delhi/osopit-cradle-grmkris-snapshot.tar.gz",
+  "featured": true,
+  "note": "Where Play IT Together was first played."
+ },
+ {
+  "id": "platform",
+  "title": "The platform — opensource-orchestra/osopit monorepo",
+  "kind": "code",
+  "date": "2025-11-03",
+  "source": "opensource-orchestra org · 152 commits",
+  "hosted": "https://github.com/opensource-orchestra/osopit",
+  "mirror": "https://osopit.com/delhi/osopit-platform-opensource-orchestra.bundle",
+  "note": "Next.js 16 artist platform · gifting with zero fees · livestream carousel · invites · IPFS · PWA."
+ },
+ {
+  "id": "ens-contracts",
+  "title": "The name machine — Durin L2 ENS contracts",
+  "kind": "code",
+  "date": "2025-11-06",
+  "source": "opensource-orchestra org",
+  "hosted": "https://github.com/opensource-orchestra/osopit-ens",
+  "mirror": "https://osopit.com/delhi/osopit-ens-contracts.bundle",
+  "note": "L2Registry · invite-based L2Registrar · CCIP-read gateway · L1 resolver. The piece the judges named Most Creative Use of ENS."
+ },
+ {
+  "id": "laurel",
+  "title": "Most Creative Use of ENS — ETHGlobal showcase",
+  "kind": "prize",
+  "date": "2025-09-28",
+  "source": "ETHGlobal",
+  "hosted": "https://ethglobal.com/showcase/opensource-orchestra-y1egw",
+  "note": "The ancestor's laurel."
+ }
+]

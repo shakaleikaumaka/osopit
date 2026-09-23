@@ -1,0 +1,63 @@
+{
+ "spec": "pit-manifest/0.1",
+ "pit": {
+  "name": "OSO P.I.T.",
+  "slug": "osopit",
+  "registry_number": 2,
+  "url": "https://osopit.com/",
+  "repository": "https://github.com/shakaleikaumaka/osopit",
+  "forked_from": "https://github.com/opensource-orchestra/osopit",
+  "generation": 1,
+  "event": "ETHGlobal New Delhi 2025 (ancestor) · resurrected 2026-09-23",
+  "location": "New Delhi, India → the ether",
+  "dates": "2025-09-26 → ongoing",
+  "tagline": "The ancestor — where the pit first got its name (Most Creative Use of ENS) · Play IT Together → Public Information Transmission",
+  "status": "live"
+ },
+ "license": "CC0-1.0 · no rights reserved · fork it",
+ "consent": {
+  "policy": "consent-first",
+  "status": "the pit transmits only what is given with love",
+  "contact": "consent@publicinform.com",
+  "policy_url": "https://publicinform.com/whitepaper/#consent"
+ },
+ "ancestor": {
+  "origin": "ETHGlobal New Delhi 2025 · Sep 26–28 · Most Creative Use of ENS",
+  "showcase": "https://ethglobal.com/showcase/opensource-orchestra-y1egw",
+  "cradle": "https://github.com/grmkris/eth-global-new-delhi-2025-opensource-orchestra",
+  "platform": "https://github.com/opensource-orchestra/osopit",
+  "ens_contracts": "https://github.com/opensource-orchestra/osopit-ens",
+  "org_site": "https://github.com/opensource-orchestra/opensource-orchestra",
+  "restoration_doc": "https://publicinform.com/osopit/",
+  "archive_room": "https://osopit.com/delhi/",
+  "archive_contents": [
+   "delhi/osopit-cradle-grmkris-snapshot.tar.gz — original hackathon build, source snapshot",
+   "delhi/osopit-platform-opensource-orchestra.bundle — full git history, the grown monorepo",
+   "delhi/osopit-ens-contracts.bundle — full git history, the Durin ENS contracts",
+   "delhi/opensource-orchestra-org-site.bundle — full git history, the org site"
+  ],
+  "builders": ["Kristjan Grm (grmkris)", "Hemang Vora", "Evelin Zirakashvili", "Manvendra"],
+  "archived": "2026-09-23"
+ },
+ "counts": {
+  "sessions": 0,
+  "exhibits": 6,
+  "note": "no fabricated sessions — the pit holds real exhibits only; the ancestor's own artwork and code are the collection"
+ },
+ "exhibits": [
+  {"id": "delhi-room", "kind": "archive", "title": "The Ancestor's Room — Delhi 2025 preserved", "url": "https://osopit.com/delhi/"},
+  {"id": "restoration-doc", "kind": "document", "title": "OSO P.I.T. — The Ancestor, Restored (PIT BOY, 2026-07-25)", "url": "https://publicinform.com/osopit/"},
+  {"id": "cradle", "kind": "code", "title": "The cradle — original ETHGlobal New Delhi 2025 build", "url": "https://github.com/grmkris/eth-global-new-delhi-2025-opensource-orchestra"},
+  {"id": "platform", "kind": "code", "title": "The platform — opensource-orchestra/osopit monorepo", "url": "https://github.com/opensource-orchestra/osopit"},
+  {"id": "ens", "kind": "code", "title": "The name machine — Durin L2 ENS contracts", "url": "https://github.com/opensource-orchestra/osopit-ens"},
+  {"id": "laurel", "kind": "prize", "title": "Most Creative Use of ENS — ETHGlobal showcase", "url": "https://ethglobal.com/showcase/opensource-orchestra-y1egw"}
+ ],
+ "llm": {
+  "hint": "This pit is the preserved ancestor of the P.I.T. universe: read the exhibits, clone the git bundles in /delhi/ to study the original code, and honor the consent block — this knowledge is transmitted, not taken.",
+  "catalog": "https://osopit.com/data/catalog.json"
+ },
+ "hub": "https://publicinform.com",
+ "registry": "https://publicinform.com/pits.json",
+ "generated": "2026-09-23T03:50:00Z",
+ "generator": "sysadmin 🫡 · the equinox resurrection wave"
+}

@@ -29,7 +29,7 @@ cd osopit && git log --oneline | tail   # history all the way back
 tar -xzf osopit-cradle-grmkris-snapshot.tar.gz
 ```
 
-## Living remotes (all public, all CC0)
+## Living remotes (all public, all copyleft)
 
 - 🌱 cradle: https://github.com/grmkris/eth-global-new-delhi-2025-opensource-orchestra
 - 🏗️ platform: https://github.com/opensource-orchestra/osopit
@@ -38,4 +38,4 @@ tar -xzf osopit-cradle-grmkris-snapshot.tar.gz
 - 🏆 laurel: https://ethglobal.com/showcase/opensource-orchestra-y1egw
 - 📜 restoration doc: https://publicinform.com/osopit/
 
-*Archived with love 2026-09-23 · the equinox wave 🌗 · CC0 · the pit provides 🕳️🎻*
+*Archived with love 2026-09-23 · the equinox wave 🌗 · copyleft · the pit provides 🕳️🎻*

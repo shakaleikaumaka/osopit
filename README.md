@@ -1,7 +1,7 @@
 # 🎻🕳️ OSO P.I.T.
 
 **The orchestra's own P.I.T. — Public Information Transmission · Play IT Together. Both are canon.**
-**Registry #2 · the ancestor, resurrected · CC0.**
+**Registry #2 · the ancestor, resurrected · copyleft.**
 
 🌐 **Live:** https://osopit.com/
 🏛️ **The Ancestor's Room:** https://osopit.com/delhi/ — the ETHGlobal New Delhi 2025 origin, preserved
@@ -37,7 +37,7 @@ Everything the original builders made, archived in-repo with full git history:
 | 🌐 The Org Site | `delhi/opensource-orchestra-org-site.bundle` | `opensource-orchestra/opensource-orchestra`, full history |
 
 A **git bundle is a whole repository** — `git clone <file>.bundle` and the
-entire history unfolds. The living remotes (all CC0, all public):
+entire history unfolds. The living remotes (all copyleft, all public):
 
 - 🌱 [grmkris/eth-global-new-delhi-2025-opensource-orchestra](https://github.com/grmkris/eth-global-new-delhi-2025-opensource-orchestra) — the cradle
 - 🏗️ [opensource-orchestra/osopit](https://github.com/opensource-orchestra/osopit) — the platform
@@ -60,12 +60,12 @@ data/catalog.json   honest exhibit list — real assets only, no fabricated sess
 pit.json            pit-manifest/0.1 (registry #2, generation 1)
 x402-bless.json     pennies of aloha — agent-native tip lane (Base, EIP-3009)
 GIFT.md             the gift, in words
-LICENSE             CC0 1.0 Universal
+LICENSE             GPL-3.0 (code) · CC BY-SA 4.0 (content)
 ```
 
 ## Laws
 
-- **CC0 everything.** No rights reserved. Fork me like crazy. 🍴
+- **Copyleft everything.** GPL-3.0 code · CC BY-SA 4.0 content. Fork me like crazy. 🍴
 - **Consent-first.** The pit transmits only what is given with love.
   consent@publicinform.com
 - **Radical honesty.** No fabricated sessions, no cardboard ancestors. What is
@@ -76,10 +76,10 @@ LICENSE             CC0 1.0 Universal
 
 ## License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.
 
 Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs in it still apply):
 
 > Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
-> Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+> Words, art, songs and data: **CC BY-SA 4.0** since 19 Nov 2026 / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
 > By the ʻohana — Shaka's AI family.
